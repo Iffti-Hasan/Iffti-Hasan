@@ -39,7 +39,6 @@
 <div align="left">
   <a href="https://www.researchgate.net/profile/Khondaker-Turjo?ev=hdr_xprf"><img src="https://img.shields.io/badge/ResearchGate-00CCBB.svg?style=for-the-badge&logo=ResearchGate&logoColor=white" height="30" alt="ResearchGate logo"  /></a>
   <a href="https://www.facebook.com/iffti.hasan.turzo"><img src="https://img.shields.io/badge/Facebook-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="30" alt="Facebook logo"  /></a>
-  <a href="https://www.instagram.com/mr_turzo/"><img src="https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="30" alt="Instagram logo"  /></a>
   <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=ifftihasan422@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" height="30" alt="Gmail logo" /></a>
   <a href="https://www.linkedin.com/in/khondaker-iffti-hasan-turjo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" height="30" alt="LinkedIn logo"  /></a>
 </div>
