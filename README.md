@@ -42,8 +42,7 @@
   <a href="https://www.facebook.com/iffti.hasan.turzo" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="30" alt="Facebook" />
   </a>
-  <a href="mailto:ifftihasan422@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" height="30" alt="Gmail" />
+  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=ifftihasan422@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" height="30" alt="Gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/khondaker-iffti-hasan-turjo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" height="30" alt="LinkedIn" />
